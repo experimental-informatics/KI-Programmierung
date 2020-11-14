@@ -31,7 +31,7 @@ Wir machen uns die Technologie der Künstlichen Intelligenz nicht als ein Tool i
 
 **Executing the Notebooks:**
 
-- You can run, execute and work on the following Notebooks here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
+- *You can run, execute and work on the following Notebooks here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
 
 ## Setting Up
 
@@ -110,5 +110,7 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 * **LIME** for image classification by using Keras (InceptionV3)
   * [kiss-explained_lime-demo.ipynb](./05_ExplainableAI/kiss-explained_lime-demo.ipynb)
 
-  
+---
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
 
