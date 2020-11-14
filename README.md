@@ -105,4 +105,9 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 * **LIME** for image classification by using Keras (InceptionV3)
   * [kiss-explained_lime-demo.ipynb](./05_ExplainableAI/kiss-explained_lime-demo.ipynb)
+---
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
+
+  
 
