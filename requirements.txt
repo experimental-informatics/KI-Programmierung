@@ -1,3 +1,4 @@
+os
 matplotlib
 pandas
 keras
@@ -7,5 +8,4 @@ tqdm
 pydot
 graphviz
 requests
-skimage.io
-os
+
