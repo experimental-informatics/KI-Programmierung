@@ -3,7 +3,7 @@ matplotlib
 pandas
 keras
 keract
-tensorflow
+tensorflow h5py<3.0.0
 tqdm
 pydot
 graphviz
