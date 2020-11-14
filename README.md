@@ -29,10 +29,6 @@ Wir machen uns die Technologie der Künstlichen Intelligenz nicht als ein Tool i
 - [WS18-19](https://exmediawiki.khm.de/exmediawiki/index.php/Einf%C3%BChrung_in_die_Programmierung_k%C3%BCnstlicher_Intelligenzen)
 - [WS19-20](https://exmediawiki.khm.de/exmediawiki/index.php/AI@exLabIII)
 
-## Table of Contents
-
-[TOC]
-
 ## Setting Up
 
 **Basics in Anaconda & Jupyter Notebooks:**
