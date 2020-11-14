@@ -6,7 +6,6 @@ tensorflow
 tqdm
 pydot
 graphviz
-PIL
 requests
 skimage.io
 os
