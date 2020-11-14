@@ -29,6 +29,10 @@ Wir machen uns die Technologie der Künstlichen Intelligenz nicht als ein Tool i
 - [WS18-19](https://exmediawiki.khm.de/exmediawiki/index.php/Einf%C3%BChrung_in_die_Programmierung_k%C3%BCnstlicher_Intelligenzen)
 - [WS19-20](https://exmediawiki.khm.de/exmediawiki/index.php/AI@exLabIII)
 
+**Executing the Notebooks:**
+
+- You can run, execute and work on the following Notebooks here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
+
 ## Setting Up
 
 **Basics in Anaconda & Jupyter Notebooks:**
@@ -105,9 +109,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 * **LIME** for image classification by using Keras (InceptionV3)
   * [kiss-explained_lime-demo.ipynb](./05_ExplainableAI/kiss-explained_lime-demo.ipynb)
----
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
 
   
 
