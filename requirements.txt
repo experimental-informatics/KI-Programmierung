@@ -1,3 +1,4 @@
+skimage
 matplotlib
 pandas
 keras
