@@ -1,5 +1,4 @@
 matplotlib
-glob
 pandas
 keras
 keract
