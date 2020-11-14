@@ -1,4 +1,3 @@
-os
 matplotlib
 pandas
 keras
