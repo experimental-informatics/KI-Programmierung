@@ -1,7 +1,4 @@
-numpy
 matplotlib
-sklearn
-scipy
 glob
 pandas
 keras
