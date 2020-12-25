@@ -47,7 +47,7 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ---
 
-### [Artificial Neural Net in Python](./02_ANN-in-Python)
+## [Artificial Neural Net in Python](./02_ANN-in-Python)
 
 many of the Code is based on Tariq Rashid's Book [»Neuronale Netze selbst programmieren«](https://www.oreilly.com/library/view/neuronale-netze-selbst/9781492064046/) < [Git Repo]( https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
