@@ -41,17 +41,9 @@ Wir machen uns die Technologie der Künstlichen Intelligenz nicht als ein Tool i
 
 ---
 
-## [Hands on Python](./01_Hands-on-Python)
+## [Hands on Python](https://github.com/experimental-informatics/hands-on-python)
 
-### basics in **Python**
-
-* **First steps** in Python: [python_first-steps.ipynb](./01_Hands-on-Python/python_first-steps.ipynb)
-* **Functions** in Python: [funktionen-in-python.ipynb](./01_Hands-on-Python/funktionen-in-python.ipynb)
-* **if / for / while** in Python: [control-flow-in-python.ipynb](./01_Hands-on-Python/control-flow-in-python.ipynb)
-
-### basics in **Markdown**
-
-* Jupyter-Notebook: [Markdown-basics.ipynb](./01_Hands-on-Python/Markdown-basics.ipynb)
+see repository: https://github.com/experimental-informatics/hands-on-python
 
 ---
 
