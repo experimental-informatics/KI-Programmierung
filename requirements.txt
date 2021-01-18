@@ -8,4 +8,11 @@ tqdm
 pydot
 graphviz
 requests
+nltk
+gensim.models
+sklearn
+chatterbot
+numpy
+textblob-de
+
 
