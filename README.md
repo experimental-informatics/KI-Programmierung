@@ -1,6 +1,7 @@
 Notebooks from the Seminars:
 
 # Einführung in die Programmierung Künstlicher Intelligenzen  < WS18/19 - WS19/20
+
 ### Introduction to Artificial Intelligence Programming
 
 Georg Trogemann und Christian Heck
@@ -15,7 +16,7 @@ Kunsthochschule für Medien Köln
 
 Email: g.trogemann@khm.de, c.heck@khm.de
 
-## Description
+### Description
 
 Profound cultural consequences of AI do not only appear with the use of upload filters for algorithmic censorship of undesirable text and image content or the auctioning of AI paintings at Christie's; nor with the formulation of ethical guidelines for dealing with AI or the increased emergence of AI-powered hate speech bots. They begin, quite abstractly and mostly unnoticed in their programming, in semi-public, very formal fields of discourse.
 
@@ -23,7 +24,7 @@ This is exactly where we start experimentally. The seminar provides a very eleme
 
 We do not adopt the technology of artificial intelligence as a tool in the Homo Faberian sense, but combine programming as an artistic practice with the critical analysis of its social effects.
 
-## Info 
+### Info 
 
 **Seminar Wiki Pages:**
 
@@ -34,7 +35,7 @@ We do not adopt the technology of artificial intelligence as a tool in the Homo 
 
 - *You can run, execute and work on the following Notebooks here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
 
-## Setting Up
+### Setting Up
 
 **Basics in Anaconda & Jupyter Notebooks:**
 
@@ -42,13 +43,13 @@ We do not adopt the technology of artificial intelligence as a tool in the Homo 
 
 ---
 
-## [Hands on Python](https://github.com/experimental-informatics/hands-on-python)
+### [Hands on Python](https://github.com/experimental-informatics/hands-on-python)
 
 see repository: https://github.com/experimental-informatics/hands-on-python
 
 ---
 
-## [Artificial Neural Net in Python](./02_ANN-in-Python)
+### [Artificial Neural Net in Python](./02_ANN-in-Python)
 
 many of the Code is based on Tariq Rashid's Book [»Neuronale Netze selbst programmieren«](https://www.oreilly.com/library/view/neuronale-netze-selbst/9781492064046/) < [Git Repo]( https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
 
@@ -60,35 +61,35 @@ many of the Code is based on Tariq Rashid's Book [»Neuronale Netze selbst progr
 
 ---
 
-## [Hands on Keras & Tensorflow](./03_Hands-on-Keras)
+### [Hands on Keras & Tensorflow](./03_Hands-on-Keras)
 
 all examples working with MNIST handwritten digit database
 
 most of the Codes are based on Francois Chollet's Book [»Deep Learning with Python«](https://www.manning.com/books/deep-learning-with-python) < [Git Repo]( https://github.com/fchollet/deep-learning-with-python-notebooks)
 
-### Dense Neural Net
+##### Dense Neural Net
 
-* **Artificial Neural Net** (DNN) in Tensorflow & Keras:
+* Coding a**Artificial Neural Net** (DNN) in Tensorflow & Keras:
   * [ANN-in-Keras.ipynb](./03_Hands-on-Keras/ANN-in-Keras.ipynb)
 
-### Autoencoder
+##### Autoencoder
 
 * Simple **Autoencoder** in Tensorflow & Keras
   * [Autoencoder-in-Keras.ipynb](./03_Hands-on-Keras/Autoencoder-in-Keras.ipynb)
 
-### Convolutional Neural Net
+##### Convolutional Neural Net
 
 * **CNN** in Tensorflow & Keras
   * [CNN-in-Keras.ipynb](./03_Hands-on-Keras/CNN-in-Keras.ipynb)
 
-### Generative Adversarial Network
+##### Generative Adversarial Network
 
 * **GAN** in Tensorflow & Keras
   * [GAN-in-Keras.ipynb](./03_Hands-on-Keras/GAN-in-Keras.ipynb)
 
 ---
 
-### [Interpretable AI](./04_InterpretableAI)
+##### [Interpretable AI](./04_InterpretableAI)
 
 * **Visualize Activations** (based on model from [CNN-in-Keras.ipynb](./03_Hands-on-Keras/CNN-in-Keras.ipynb))
   * [mnist_cnn-activations_keract.ipynb](./04_InterpretableAI/mnist_cnn-activations_keract.ipynb)
@@ -98,12 +99,65 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 ---
 
-### [Explainable AI](./05_ExplainableAI)
+##### [Explainable AI](./05_ExplainableAI)
 
 * **LIME** for image classification by using Keras (InceptionV3)
   * [kiss-explained_lime-demo.ipynb](./05_ExplainableAI/kiss-explained_lime-demo.ipynb)
 
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
+### [Natural Language Processing (NLP)](./06_NLP)
 
+---
+
+##### Text Preprocessing
+
+* for english Textcorpora
+  * [tokenize_english_textcorpora.ipynb](./06_NLP/tokenize_english_textcorpora.ipynb)
+
+* for german Textcorpora
+  * [tokenize_german_textcorpora.ipynb](./06_NLP/tokenize_german_textcorpora.ipynb)
+
+---
+
+##### Chatbots
+
+* Basic Encodings & traditional embeddings (ONE-HOT / BOW / TF-IDF)
+  * [one-hot_bow_tfidf.ipynb](./06_NLP/one-hot_bow_tfidf.ipynb)
+* Basic Chatbots (TF-IDF)
+  * [simple_german_chatbot.ipynb](./06_NLP/simple_german_chatbot.ipynb)
+  * [simple_english_chatbot.ipynb](./06_NLP/simple_english_chatbot.ipynb)
+* Chatbots with Chatterbot
+  * [chatterbot.ipynb](./06_NLP/chatterbot.ipynb)
+
+---
+
+##### Sentiment Analysis
+
+* Sentiment Analysis for german textcorpora
+  * [Sentiment-analyses_4_german-texts_with_TextBlob.ipynb](./06_NLP/Sentiment-analyses_4_german-texts_with_TextBlob.ipynb)
+
+---
+
+##### Word embeddings
+
+* train a Word2vev Modell on your own Texts
+  * [train_your_own_Word2vec-model.ipynb](./06_NLP/train_your_own_Word2vec-model.ipynb)
+
+---
+
+##### RNN/LSTM
+
+* **LSTM**- Textgeneration
+  * [LSTM-Textgenerator.ipynb](./06_NLP/LSTM-Textgenerator.ipynb)
+
+---
+
+##### Datasets
+
+* Loading and scraping data from the web
+  * [load_scrape_data-sets.ipynb](./06_NLP/load_scrape_data-sets.ipynb)
+
+---
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-artificial-neural-networks/HEAD)
