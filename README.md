@@ -87,8 +87,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 * **GAN** in Tensorflow & Keras
   * [GAN-in-Keras.ipynb](./03_Hands-on-Keras/GAN-in-Keras.ipynb)
 
----
-
 ##### [Interpretable AI](./04_InterpretableAI)
 
 * **Visualize Activations** (based on model from [CNN-in-Keras.ipynb](./03_Hands-on-Keras/CNN-in-Keras.ipynb))
@@ -96,8 +94,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 * **Visualize Heatmaps** (based on model from [CNN-in-Keras.ipynb](./03_Hands-on-Keras/CNN-in-Keras.ipynb))
   * [mnist_cnn-heatmaps_keract.ipynb](./04_InterpretableAI/mnist_cnn-heatmaps_keract.ipynb)
-
----
 
 ##### [Explainable AI](./05_ExplainableAI)
 
@@ -108,8 +104,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 ### [Natural Language Processing (NLP)](./06_NLP)
 
----
-
 ##### Text Preprocessing
 
 * for english Textcorpora
@@ -117,8 +111,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 * for german Textcorpora
   * [tokenize_german_textcorpora.ipynb](./06_NLP/tokenize_german_textcorpora.ipynb)
-
----
 
 ##### Chatbots
 
@@ -130,28 +122,20 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 * Chatbots with Chatterbot
   * [chatterbot.ipynb](./06_NLP/chatterbot.ipynb)
 
----
-
 ##### Sentiment Analysis
 
 * Sentiment Analysis for german textcorpora
   * [Sentiment-analyses_4_german-texts_with_TextBlob.ipynb](./06_NLP/Sentiment-analyses_4_german-texts_with_TextBlob.ipynb)
-
----
 
 ##### Word embeddings
 
 * train a Word2vev Modell on your own Texts
   * [train_your_own_Word2vec-model.ipynb](./06_NLP/train_your_own_Word2vec-model.ipynb)
 
----
-
 ##### RNN/LSTM
 
 * **LSTM**- Textgeneration
   * [LSTM-Textgenerator.ipynb](./06_NLP/LSTM-Textgenerator.ipynb)
-
----
 
 ##### Datasets
 
