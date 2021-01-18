@@ -9,7 +9,6 @@ pydot
 graphviz
 requests
 nltk
-gensim.models
 sklearn
 chatterbot
 numpy
