@@ -16,11 +16,11 @@ Email: g.trogemann@khm.de, c.heck@khm.de
 
 ## Description
 
-Tief greifende kulturelle Konsequenzen von KI treten nicht erst beim Einsatz von Uploadfiltern zur algorithmischen Zensur unerwünschter Text- und Bildinhalte oder der Versteigerung von KI-Gemälden bei Christie's in Erscheinung; auch nicht bei der Ausformulierung ethischer Leitlinien für den Umgang mit KI oder dem vermehrten Aufkommen von AI powered Hate Speech Bots. Sie beginnen, ganz abstrakt und meist unbeachtet bei ihrer Programmierung, in semi-öffentlich geführten, sehr formalen Diskursfeldern.
+Profound cultural consequences of AI do not only appear with the use of upload filters for algorithmic censorship of undesirable text and image content or the auctioning of AI paintings at Christie's; nor with the formulation of ethical guidelines for dealing with AI or the increased emergence of AI-powered hate speech bots. They begin, quite abstractly and mostly unnoticed in their programming, in semi-public, very formal fields of discourse.
 
-Genau dort setzen wir experimentell an. Das Seminar führt sehr elementar in die subsymbolische KI der Neuronalen Netze und deren Programmierung ein. Coden from scratch, den Code gemeinsam diskutieren und zu verstehen lernen, um auf diesem Wege die Möglichkeiten, Grenzen und Gefahren dieser Technologie für sich einschätzen zu lernen ist Ziel dieses Seminars.
+This is exactly where we start experimentally. The seminar provides a very elementary introduction to the subsymbolic AI of neural networks and their programming. The aim of this seminar is to code from scratch, discuss the code together and learn to understand it, in order to learn to assess the possibilities, limits and dangers of this technology for oneself.
 
-Wir machen uns die Technologie der Künstlichen Intelligenz nicht als ein Tool im Homo Faberischen Sinne zu eigen, sondern verbinden Programmieren als künstlerische Praxis mit der kritischen Analyse ihrer gesellschaftlichen Auswirkungen.
+We do not adopt the technology of artificial intelligence as a tool in the Homo Faberian sense, but combine programming as an artistic practice with the critical analysis of its social effects.
 
 ## Info 
 
