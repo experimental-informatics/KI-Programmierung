@@ -1,7 +1,7 @@
 Notebooks from the Seminars:
 
 # Einführung in die Programmierung Künstlicher Intelligenzen  < WS18/19 - WS19/20
-#### Introduction to Artificial Intelligence Programming
+### Introduction to Artificial Intelligence Programming
 
 Georg Trogemann und Christian Heck
 
