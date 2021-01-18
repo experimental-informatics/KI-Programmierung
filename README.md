@@ -108,7 +108,6 @@ most of the Codes are based on Francois Chollet's Book [»Deep Learning with Pyt
 
 * for english Textcorpora
   * [tokenize_english_textcorpora.ipynb](./06_NLP/tokenize_english_textcorpora.ipynb)
-
 * for german Textcorpora
   * [tokenize_german_textcorpora.ipynb](./06_NLP/tokenize_german_textcorpora.ipynb)
 
