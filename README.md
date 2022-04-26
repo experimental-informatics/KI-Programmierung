@@ -1,8 +1,6 @@
 Notebooks from the Seminars:
 
-# Einführung in die Programmierung Künstlicher Intelligenzen  < WS18/19 - WS19/20
-
-### Introduction to Artificial Intelligence Programming
+# Introduction to Artificial Intelligence Programming < WS18/19 - WS19/20
 
 Georg Trogemann und Christian Heck
 
@@ -13,8 +11,6 @@ Dienstag wöchentlich 11:00 –13:00
 Filzengraben 8 - 10, 0.2 [Experimentelle Informatik](https://www.khm.de/exMedia_experimentelle_informatik/)
 
 Kunsthochschule für Medien Köln
-
-Email: g.trogemann@khm.de, c.heck@khm.de
 
 ### Description
 
